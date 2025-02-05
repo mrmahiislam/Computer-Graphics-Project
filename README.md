@@ -57,5 +57,5 @@ Welcome to **City Life in Metro**, an OpenGL-based Computer Graphics project tha
 - Enhance graphics with shaders for better lighting effects. ✨
 
 
-Feel free to contribute to this project and make it even better! 🚀😊
+*** Thank You *** 🚀😊
 
